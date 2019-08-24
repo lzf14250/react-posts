@@ -1,0 +1,10 @@
+export const ADD_POSTS = 'ADD_POSTS';
+export const ADD_POST = 'ADD_POST';
+export const REMOVE_POST = 'REMOVE_POST';
+export const POSTS_LOADING = 'POSTS_LOADING';
+export const POSTS_FAILED = 'POSTS_FAILED';
+export const ADD_USERS = 'ADD_USERS';
+export const USERS_LOADING = 'USERS_LOADING';
+export const USERS_FAILED = 'USERS_FAILED';
+export const ADD_COMMENTS = 'ADD_COMMENTS';
+export const COMMENTS_FAILED = 'COMMENTS_FAILED';
